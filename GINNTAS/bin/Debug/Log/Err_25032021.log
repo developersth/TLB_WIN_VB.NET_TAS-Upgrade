@@ -1,0 +1,56 @@
+25/03/2021 18:26:21 [OpenDyns] SELECT RECORD_NO,
+                                   LOAD_HEADER_NO,
+                                   DO_NO,
+                                   BASE_PRODUCT_ID,
+                                   ROUND(T.LOADED_VOLOBS,2) AS LOADED_VOLOBS,
+                                   ROUND(T.LOADED_VOL15C,2) AS LOADED_VOL15C,
+                                   ROUND(T.LOADED_VOL30C,2) AS LOADED_VOL30C,
+                                   ROUND(T.LOADED_MASS,2) AS LOADED_MASS,
+                                   LOADED_VOLOBS_500N,
+                                   LOADED_VOLOBS_150N,
+                                   LOADED_VOLOBS_150BS,
+                                   TEMP,
+                                   DESITY15C,
+                                   DESITY30C,
+                                   VCF15C,
+                                   VCF30C,
+                                   COQ_NO,
+                                   METER_NO,
+                                   TANK_ID,
+                                   TANK_NAME
+                            FROM RPT.VIEW_DELIV_SUM_LINE
+                            WHERE LOAD_HEADER_NO =630016104
+25/03/2021 18:26:21 [OpenDyns] Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00904: "T"."LOADED_MASS": invalid identifier
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, OracleLogicalTransaction& oracleLogicalTransaction, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader()
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 287
+25/03/2021 18:27:06 [OpenDyns] SELECT RECORD_NO,
+                                   LOAD_HEADER_NO,
+                                   DO_NO,
+                                   BASE_PRODUCT_ID,
+                                   ROUND(T.LOADED_VOLOBS,2) AS LOADED_VOLOBS,
+                                   ROUND(T.LOADED_VOL15C,2) AS LOADED_VOL15C,
+                                   ROUND(T.LOADED_VOL30C,2) AS LOADED_VOL30C,
+                                   ROUND(T.LOADED_MASS,2) AS LOADED_MASS,
+                                   LOADED_VOLOBS_500N,
+                                   LOADED_VOLOBS_150N,
+                                   LOADED_VOLOBS_150BS,
+                                   TEMP,
+                                   DESITY15C,
+                                   DESITY30C,
+                                   VCF15C,
+                                   VCF30C,
+                                   COQ_NO,
+                                   METER_NO,
+                                   TANK_ID,
+                                   TANK_NAME
+                            FROM RPT.VIEW_DELIV_SUM_LINE
+                            WHERE LOAD_HEADER_NO =630016104
+25/03/2021 18:27:06 [OpenDyns] Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00904: "T"."LOADED_MASS": invalid identifier
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, OracleLogicalTransaction& oracleLogicalTransaction, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader()
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 287

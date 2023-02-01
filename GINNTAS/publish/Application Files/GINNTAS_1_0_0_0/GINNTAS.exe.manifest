@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="GINNTAS.exe" version="1.0.0.0" publicKeyToken="59ed89683068bc95" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="GINNTAS" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="GINNTAS.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GINNTAS.exe" size="103936">
+      <assemblyIdentity name="GINNTAS" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>HPdVvMQdbxAFkfylkuxO+kDOMaA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=G08-PC\Administrator" issuerKeyHash="73dec48d290685f3d22bc2ec6965109810ead01c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>d8pnNm4nfpALXgzdCLXHTcr6pDE=</DigestValue></Reference></SignedInfo><SignatureValue>NAmL3HB9ngrnk1iEhCvYCBE2V7qyOif/z8g+ghBrYQR91oLVqLdZduDHWkKaaHexQS1TCh0nHGjkoJRN/ZpcR5VtVQCF6Jv8bAiA4SY0cSDhgdg/4CCS7kcaObDGbiMSMkMGiqCaVng7eGgE1pG3khgHXmhWAPLjgZ2Xi5sPr5U=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vvkDe+W95vlqsooNXPtCix/0ZjE9sryjtfPnQ/gdOaPYbIgWSrBecjqHi14XNgNu2xbC87+c4XcXfikpgGvej1Ox1xf9w5AmzCYbj0ZmXhZJKi0fSAMtiWmhLgST3Mu3hvujWrg955o8Eyw87kjbYmAvlaOt0qY3q6BGDktPia8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="31a4faca4dc7b508dd0c5e0b907e276e3667ca77" Description="" Url=""><as:assemblyIdentity name="GINNTAS.exe" version="1.0.0.0" publicKeyToken="59ed89683068bc95" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=G08-PC\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>MIGxwXsQDJnDyuF3oqDB7VG9eCU=</DigestValue></Reference></SignedInfo><SignatureValue>BHYb9KIHwrMj8u797V6jSjOZgvI1oRECEZ3ApRDl6D0oIXr/ndYATwC3gKawHkypAbV9QqNc6Bu0eOAE/AUuGdyjyhS9nu9klZMNwBlHwwtu87Zh+fNdfVWrNwDpSknr8b2aXUWwI4hg/f3ugs+DL3dasngdZVrBWWrVb0Af5R0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vvkDe+W95vlqsooNXPtCix/0ZjE9sryjtfPnQ/gdOaPYbIgWSrBecjqHi14XNgNu2xbC87+c4XcXfikpgGvej1Ox1xf9w5AmzCYbj0ZmXhZJKi0fSAMtiWmhLgST3Mu3hvujWrg955o8Eyw87kjbYmAvlaOt0qY3q6BGDktPia8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQQPl9ScavYLVCsEw0RAjwbzANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigARwAwADgALQBQAEMAXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAbwByMB4XDTE0MDQwOTEwNTg0NVoXDTE1MDQwOTE2NTg0NVowMzExMC8GA1UEAx4oAEcAMAA4AC0AUABDAFwAQQBkAG0AaQBuAGkAcwB0AHIAYQB0AG8AcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvvkDe+W95vlqsooNXPtCix/0ZjE9sryjtfPnQ/gdOaPYbIgWSrBecjqHi14XNgNu2xbC87+c4XcXfikpgGvej1Ox1xf9w5AmzCYbj0ZmXhZJKi0fSAMtiWmhLgST3Mu3hvujWrg955o8Eyw87kjbYmAvlaOt0qY3q6BGDktPia8CAwEAATANBgkqhkiG9w0BAQUFAAOBgQA6xGYQjBJmBG/PWK5x0i3Nx/vdQrfe6gsxkblBLIgqbX7SXpoeUAeb3Ie5S/1B8veYF0tDY0VC+35ypC/j/u2hJrwuUewb5CyBM5gowFZuGkqe9UXGHbLbXc9SZ+7jDafEUiRcwdeBsWCjIgrTYgwTnN7lv6//FVYL0IquJU49vQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

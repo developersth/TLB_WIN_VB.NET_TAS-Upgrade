@@ -1,0 +1,94 @@
+27/03/2021 15:43:26 [OpenDyns] SELECT LOAD_HEADER_NO, SHIPMENT_NO, SEAL_USE, SEAL_NUMBER, SHIPMENT_REF, TU_CARD_NO, TU_NUMBER, TU_NUMBER1, TU_ID, TU_ID1, VEHICLE_NUMBER, VEHICLE_ID, VEHICLE_MAP_TYPE, DRIVER_NAME, CARRIER_NAME, T_ENTRY, T_BILLING, T_REGISTOR, T_REGISTOR2, T_WEIGHTIN, T_BAY, T_TOPCHECK, T_WEIGHTOUT, T_EXIT, T_QUEUE, T_SHIPMENT, T_SEAL, EOD_DATE, BAYSTART, BAYSTOP, CANCEL_STATUS, LOAD_STATUS, WEIGHT_IN, WEIGHT_OUT, BATCH_NO, DO_NO, COMPARTMENT_NO, ISLAND_NO, ISLAND_NAME, BAY_NO, BAY_NAME, SALE_PRODUCT_ID, SALE_PRODUCT_NAME, SALE_PRODUCT_CODE, BASE_PRODUCT_ID, BASE_PRODUCT_NAME, COMPAMENT_CAPACITY, ADVICE, PRESET, TANK_NAME, METER_NO, TEMP, API60F, DESITY15C, FLOWRATE_AVG, PRESSURE, LOADED_GROSS, LOADED_NET, LOADED_VOLOBS, LOADED_VOL15C, LOADED_VOL30C, LOADED_NET_CAL, TOT_GROSS_START, TOT_GROSS_STOP, TOT_NET_START, TOT_NET_STOP, TOT_VOL30C_START, TOT_VOL30C_STOP, UNIT, VCF15C, VCF30C, LOADED_MASS, T_START, T_STOP, SHIP_TO_CODE, SHIPTO_NAME, CUSTOMER_CODE, CUSTOMER_NAME, GOV_PROJECT, GOV_IS_PRINT, GOV_PRINT_NO FROM RPT.DAILY_LOADING_DETAIL WHERE LOAD_HEADER_NO=
+27/03/2021 15:43:26 [OpenDyns] Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00936: missing expression
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, OracleLogicalTransaction& oracleLogicalTransaction, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader()
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 287
+27/03/2021 15:44:25 [OpenDyns] SELECT LOAD_HEADER_NO, SHIPMENT_NO, SEAL_USE, SEAL_NUMBER, SHIPMENT_REF, TU_CARD_NO, TU_NUMBER, TU_NUMBER1, TU_ID, TU_ID1, VEHICLE_NUMBER, VEHICLE_ID, VEHICLE_MAP_TYPE, DRIVER_NAME, CARRIER_NAME, T_ENTRY, T_BILLING, T_REGISTOR, T_REGISTOR2, T_WEIGHTIN, T_BAY, T_TOPCHECK, T_WEIGHTOUT, T_EXIT, T_QUEUE, T_SHIPMENT, T_SEAL, EOD_DATE, BAYSTART, BAYSTOP, CANCEL_STATUS, LOAD_STATUS, WEIGHT_IN, WEIGHT_OUT, BATCH_NO, DO_NO, COMPARTMENT_NO, ISLAND_NO, ISLAND_NAME, BAY_NO, BAY_NAME, SALE_PRODUCT_ID, SALE_PRODUCT_NAME, SALE_PRODUCT_CODE, BASE_PRODUCT_ID, BASE_PRODUCT_NAME, COMPAMENT_CAPACITY, ADVICE, PRESET, TANK_NAME, METER_NO, TEMP, API60F, DESITY15C, FLOWRATE_AVG, PRESSURE, LOADED_GROSS, LOADED_NET, LOADED_VOLOBS, LOADED_VOL15C, LOADED_VOL30C, LOADED_NET_CAL, TOT_GROSS_START, TOT_GROSS_STOP, TOT_NET_START, TOT_NET_STOP, TOT_VOL30C_START, TOT_VOL30C_STOP, UNIT, VCF15C, VCF30C, LOADED_MASS, T_START, T_STOP, SHIP_TO_CODE, SHIPTO_NAME, CUSTOMER_CODE, CUSTOMER_NAME, GOV_PROJECT, GOV_IS_PRINT, GOV_PRINT_NO FROM RPT.DAILY_LOADING_DETAIL WHERE LOAD_HEADER_NO=
+27/03/2021 15:44:25 [OpenDyns] Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00936: missing expression
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, OracleLogicalTransaction& oracleLogicalTransaction, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader()
+   at GINNTAS.COracle.Query_TBL(String sql)
+27/03/2021 17:04:02 [OpenDyns] 18/02/2021
+27/03/2021 17:04:02 [OpenDyns] Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00900: invalid SQL statement
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, OracleLogicalTransaction& oracleLogicalTransaction, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader()
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 287
+27/03/2021 17:19:05 [OpenDyns] SELECT EOD_DATE, SALE_PRODUCT_ID, SALE_PRODUCT_NAME, COMPARTMENT_NO, METER_NO, DESITY15C, BASE_PRODUCT_ID, BASE_PRODUCT_NAME, SALE_PRODUCT_CODE, LOAD_HEADER_NO, CUSTOMER_CODE, DO_NO, CUSTOMER_NAME, DRIVER_ID, DRIVER_NAME, VEHICLE, T_BAY, T_COMPLETE, T_START, T_STOP, T_WEIGHTIN, T_WEIGHTOUT, WEIGHT_OUT, WEIGHT_IN, WEIGHT_NET, ADVICE, LOADED_GROSS, LOADED_NET, LOADED_VOLOBS, LOADED_VOL30C, LOADED_MASS, TEMP, SHIPTO_NAME
+                             FROM RPT.VIEW_LOAD_MASS_REPORT_DAILY
+                             WHERE TO_CHAR(EOD_DATE,'DD/MM/YYYY') =  '24/02/2021' 
+27/03/2021 17:19:05 [OpenDyns] Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00904: "T_STOP": invalid identifier
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, OracleLogicalTransaction& oracleLogicalTransaction, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader()
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 287
+27/03/2021 21:36:39 [OpenDyns] SELECT EOD_DATE, BASE_PRODUCT_ID, METER_NO, SHIPMENT_NO, TEMP, API60F, DESITY15C, LOADED_VOLOBS, LOADED_VOL15C, LOADED_VOL30C, LOADED_MASS, ADVICE, LOADED_GROSS, LOADED_NET, LOADED_NET_CAL, START_TOT, STOP_TOT, WEIGHT_NET
+                             FROM RPT.VIEW_DATA_LOADING_MONTHLY
+                             WHERE TO_CHAR(EOD_DATE,'MM/YYYY') =  '02/2021' 
+27/03/2021 21:36:39 [OpenDyns] System.InvalidCastException: Specified cast is not valid.
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetDecimal(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValue(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.DataReaderContainer.CommonLanguageSubsetDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.SchemaMapping.LoadDataRow()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.LoadAdapter.FillFromReader(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)
+   at System.Data.DataTable.Load(IDataReader reader)
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 288
+27/03/2021 21:44:29 [OpenDyns] SELECT EOD_DATE, BASE_PRODUCT_ID, METER_NO, SHIPMENT_NO, TEMP, API60F, DESITY15C, LOADED_VOLOBS, LOADED_VOL15C, LOADED_VOL30C, LOADED_MASS, ADVICE, LOADED_GROSS, LOADED_NET, LOADED_NET_CAL, START_TOT, STOP_TOT, WEIGHT_NET
+                             FROM RPT.VIEW_DATA_LOADING_MONTHLY
+                             WHERE TO_CHAR(EOD_DATE,'MM/YYYY') =  '02/2021' 
+27/03/2021 21:44:29 [OpenDyns] System.InvalidCastException: Specified cast is not valid.
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetDecimal(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValue(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.DataReaderContainer.CommonLanguageSubsetDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.SchemaMapping.LoadDataRow()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.LoadAdapter.FillFromReader(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)
+   at System.Data.DataTable.Load(IDataReader reader)
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 288
+27/03/2021 21:45:01 [OpenDyns] SELECT EOD_DATE, BASE_PRODUCT_ID, METER_NO, SHIPMENT_NO, TEMP, API60F, DESITY15C, LOADED_VOLOBS, LOADED_VOL15C, LOADED_VOL30C, LOADED_MASS, ADVICE, LOADED_GROSS, LOADED_NET, LOADED_NET_CAL, START_TOT, STOP_TOT, WEIGHT_NET
+                             FROM RPT.VIEW_DATA_LOADING_MONTHLY
+                             WHERE TO_CHAR(EOD_DATE,'MM/YYYY') =  '02/2021' 
+27/03/2021 21:45:01 [OpenDyns] System.InvalidCastException: Specified cast is not valid.
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetDecimal(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValue(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.DataReaderContainer.CommonLanguageSubsetDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.SchemaMapping.LoadDataRow()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.LoadAdapter.FillFromReader(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)
+   at System.Data.DataTable.Load(IDataReader reader)
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 288
+27/03/2021 21:47:14 [OpenDyns] SELECT EOD_DATE, BASE_PRODUCT_ID, METER_NO, SHIPMENT_NO, TEMP, API60F, DESITY15C, LOADED_VOLOBS, LOADED_VOL15C, LOADED_VOL30C, LOADED_MASS, ADVICE, LOADED_GROSS, LOADED_NET, LOADED_NET_CAL, START_TOT, STOP_TOT, WEIGHT_NET
+                             FROM RPT.VIEW_DATA_LOADING_MONTHLY
+                             WHERE TO_CHAR(EOD_DATE,'MM/YYYY') =  '02/2021' AND BASE_PRODUCT_ID='BITUMEN' 
+27/03/2021 21:47:14 [OpenDyns] System.InvalidCastException: Specified cast is not valid.
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetDecimal(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValue(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.DataReaderContainer.CommonLanguageSubsetDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.SchemaMapping.LoadDataRow()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.LoadAdapter.FillFromReader(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)
+   at System.Data.DataTable.Load(IDataReader reader)
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 288

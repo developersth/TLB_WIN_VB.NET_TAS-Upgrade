@@ -1,0 +1,688 @@
+D:\code\TAS\GINNTAS_TLB\GINNTAS\bin\Release\config.ini
+D:\code\TAS\GINNTAS_TLB\GINNTAS\bin\Release\GINNTAS.exe.config
+D:\code\TAS\GINNTAS_TLB\GINNTAS\bin\Release\GINNTAS.exe.manifest
+D:\code\TAS\GINNTAS_TLB\GINNTAS\bin\Release\GINNTAS.application
+D:\code\TAS\GINNTAS_TLB\GINNTAS\bin\Release\GINNTAS.exe
+D:\code\TAS\GINNTAS_TLB\GINNTAS\bin\Release\GINNTAS.pdb
+D:\code\TAS\GINNTAS_TLB\GINNTAS\bin\Release\GINNTAS.xml
+D:\code\TAS\GINNTAS_TLB\GINNTAS\bin\Release\MetroFramework.Design.dll
+D:\code\TAS\GINNTAS_TLB\GINNTAS\bin\Release\MetroFramework.dll
+D:\code\TAS\GINNTAS_TLB\GINNTAS\bin\Release\MetroFramework.Fonts.dll
+D:\code\TAS\GINNTAS_TLB\GINNTAS\bin\Release\Oracle.ManagedDataAccess.dll
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.vbprojResolveAssemblyReference.cache
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.Form3.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmCheckUserPw.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmProofCheckBitument.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmProofSendDataErp.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmDeviceEven.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmProofMonitorTank.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmProofMonitorLoadProduct.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmProofSAPTAS.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmProofSumOrder.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainCarrier_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainTransportUnit_VehicleType_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainTransportUnit_VehicleType.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMINetworkStatus.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIPlantLayout.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmScanAlarm.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmCommunication.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMeterAlarm.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMINetwork.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIProcessSlop.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIPumpReceive.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIPumpBay.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIBayLoading.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIMonitorMeter.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMISlopLevel.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMISlopTemp.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.popupNetworkStatus.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUnInvTank.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUnInMeter.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmfrmUnloading_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUnloading_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmProofJournal.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmProofEditLine.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmProofLoadIncomplete.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmProofLoading.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmProofLoadingComplete.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmProofQueue.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigBay_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigBay_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigCardReader_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigCardReader_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigCommport_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigCommport_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigIsland_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigIsland_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigMeter_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigMeter_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigPrinters_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigPrinters_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigPump_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigPump_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigReportHeaders_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigReportHeaders_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigReportSetting_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigReportSetting_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigSaleProduct_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigSaleProduct_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigTank_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigTank_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainCard_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainCard_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainCarrier_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainCustomer_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainCustomer_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainDriver_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainDriver_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainShipTo_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainShipTo_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainTransportUnit_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainTransportUnit_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainVehicle_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMainVehicle_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmFind.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigBaseProduct_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmConfigBaseProduct_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.dfindIncombo.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIBayLoadingAlarmPopUp.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIBayLoadingTopUP.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIMeterSetup.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIOverView.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIPermissive.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIProcessFlow.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIProcessSetLevel.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIProcessSetTemp.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMITank.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIwbLampTest.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMMIWeighBridge.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadingSystem.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmOrderSchedule.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadEditExcise.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadDO_Edit.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadCreateLoad.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadCustomerQuota.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadDO.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadDoList.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadDo_new.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadDO_Sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadEditSeal.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadEditVolumeDo.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadEditWeight.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadLoading.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadLoading_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadMixEdit.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadOldDataVechicle.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadSeal.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadTopUp.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadTopUp_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadWeight.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMixEditWeight.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmLoadCheckDiff.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmRemark.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMain1.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptDepHighway.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptDepHighwayTotal.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptDepHighwayTotalOfMonth.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptEndOfDay.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptMeterDay.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptMeterThruoghput.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptOilLoading.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptOilTankOfMonth.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptOilTankOfYear.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptProductDelivery.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptProductOfMeter.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptProductOfMonth.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptProductOfYear.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptShowReport.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptStatusOftank.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptTopup.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmrptWeight.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmShowReportDelivery.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.FrmUtlChangPsw.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUtlCreateLoad1.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUtlEndOfday.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUtlShowdetial.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUtlWeighBridge_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUtlWeighBridge_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUtlReportEditor.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUtlSecurity.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUtlUsers_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUtlUsers_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUtlAddSeal.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmTruck.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmCard.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMasterData.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmCustomer.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmType2.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMnuType1.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmType1.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmDriver.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmTemporary.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.Form1.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmMain.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUtlOverrideCR.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUtlTasConfig_main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.frmUtlTasConfig_sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.LoginForm1.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.Resources.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucBack.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucHeader.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucMenutxtSub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucButtonBay.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.UcFlowLoading.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.UcLoadStatus.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucMenutxt_Sub.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucMenutxt_Main.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucMenutxtMain.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.UcMMIOverView.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucMMIview.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucNetworkStatus.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucPanelStatuses.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucPermissive.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucSplitpanel.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucFooter.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucTruck.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucVProgressBar.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.UcProgressOil.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucProgressOverView.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucReflesh.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucSearch.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucDelete.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucEdit.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucInsert.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucCancel.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucClose.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucMenu.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucMinimize.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucMnu.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucMnuText.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucSave.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucStatus.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.ucTank.resources
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.vbproj.GenerateResource.Cache
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.TrustInfo.xml
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.exe.manifest
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.application
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.exe
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.xml
+D:\code\TAS\GINNTAS_TLB\GINNTAS\obj\Release\GINNTAS.pdb
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\bin\Release\config.ini
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\bin\Release\GINNTAS.exe.config
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\bin\Release\GINNTAS.exe.manifest
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\bin\Release\GINNTAS.application
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\bin\Release\GINNTAS.exe
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\bin\Release\GINNTAS.pdb
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\bin\Release\GINNTAS.xml
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\bin\Release\MetroFramework.Design.dll
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\bin\Release\MetroFramework.dll
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\bin\Release\MetroFramework.Fonts.dll
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\bin\Release\Oracle.ManagedDataAccess.dll
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.vbprojResolveAssemblyReference.cache
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.Form3.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmCheckUserPw.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmProofCheckBitument.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmProofSendDataErp.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmDeviceEven.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmProofMonitorTank.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmProofMonitorLoadProduct.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmProofSAPTAS.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmProofSumOrder.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainCarrier_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainTransportUnit_VehicleType_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainTransportUnit_VehicleType.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMINetworkStatus.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIPlantLayout.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmScanAlarm.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmCommunication.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMeterAlarm.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMINetwork.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIProcessSlop.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIPumpReceive.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIPumpBay.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIBayLoading.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIMonitorMeter.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMISlopLevel.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMISlopTemp.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.popupNetworkStatus.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUnInvTank.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUnInMeter.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmfrmUnloading_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUnloading_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmProofJournal.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmProofEditLine.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmProofLoadIncomplete.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmProofLoading.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmProofLoadingComplete.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmProofQueue.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigBay_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigBay_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigCardReader_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigCardReader_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigCommport_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigCommport_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigIsland_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigIsland_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigMeter_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigMeter_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigPrinters_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigPrinters_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigPump_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigPump_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigReportHeaders_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigReportHeaders_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigReportSetting_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigReportSetting_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigSaleProduct_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigSaleProduct_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigTank_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigTank_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainCard_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainCard_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainCarrier_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainCustomer_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainCustomer_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainDriver_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainDriver_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainShipTo_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainShipTo_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainTransportUnit_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainTransportUnit_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainVehicle_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMainVehicle_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmFind.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigBaseProduct_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmConfigBaseProduct_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.dfindIncombo.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIBayLoadingAlarmPopUp.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIBayLoadingTopUP.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIMeterSetup.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIOverView.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIPermissive.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIProcessFlow.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIProcessSetLevel.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIProcessSetTemp.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMITank.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIwbLampTest.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMMIWeighBridge.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadingSystem.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmOrderSchedule.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadEditExcise.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadDO_Edit.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadCreateLoad.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadCustomerQuota.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadDO.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadDoList.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadDo_new.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadDO_Sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadEditGOVCOQ.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadEditSeal.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadEditVolumeDo.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadEditWeight.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadLoading.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadLoading_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadMixEdit.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadOldDataVechicle.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadSeal.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadTopUp.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadTopUp_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadWeight.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMixEditWeight.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmLoadCheckDiff.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmRemark.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMain1.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptDepHighway.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptDepHighwayTotal.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptDepHighwayTotalOfMonth.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptEndOfDay.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptMeterDay.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptMeterThruoghput.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptOilLoading.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptOilTankOfMonth.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptOilTankOfYear.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptProductDelivery.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptProductOfMeter.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptProductOfMonth.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptProductOfYear.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptShowReport.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptStatusOftank.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptTopup.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmrptWeight.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmShowReportDelivery.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.FrmUtlChangPsw.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUtlCreateLoad1.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUtlEndOfday.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUtlShowdetial.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUtlWeighBridge_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUtlWeighBridge_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUtlReportEditor.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUtlSecurity.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUtlUsers_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUtlUsers_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUtlAddSeal.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmTruck.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmCard.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMasterData.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmCustomer.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmType2.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMnuType1.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmType1.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmDriver.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmTemporary.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.Form1.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmMain.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUtlOverrideCR.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUtlTasConfig_main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.frmUtlTasConfig_sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.LoginForm1.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.Resources.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucBack.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucHeader.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucMenutxtSub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucButtonBay.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.UcFlowLoading.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.UcLoadStatus.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucMenutxt_Sub.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucMenutxt_Main.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucMenutxtMain.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.UcMMIOverView.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucMMIview.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucNetworkStatus.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucPanelStatuses.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucPermissive.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucSplitpanel.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucFooter.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucTruck.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucVProgressBar.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.UcProgressOil.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucProgressOverView.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucReflesh.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucSearch.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucDelete.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucEdit.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucInsert.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucCancel.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucClose.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucMenu.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucMinimize.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucMnu.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucMnuText.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucSave.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucStatus.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.ucTank.resources
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.vbproj.GenerateResource.Cache
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.TrustInfo.xml
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.exe.manifest
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.application
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.exe
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.xml
+D:\code_test\TAS\GINNTAS_TLB_20190129_Before\GINNTAS\obj\Release\GINNTAS.pdb
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\load_introduction_tm.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\DataSet\DataSetTLB1.Designer.vb
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\load_introduction_tm.vb
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\config.ini
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\DataSet\DataSetTLB.xsc
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\DataSet\DataSetTLB.xsd
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\DataSet\DataSetTLB.xss
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Delivery_Receipt.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Detail Oil Bulk Loading Mass By Cust.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Detail Oil Bulk Loading Mass By Product.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Detail Oil Bulk Loading Monthly.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Detail Oil Bulk Loading Volume By Company.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Detail Oil Bulk Loading Volume By Product.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Detail Oil Bulk Loading Yearly.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Detail Oil Bulk Loading.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Gov Project Attach Report.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Government Loading By Company.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Government Loading Report Monthly.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Government Loading Report.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\MassLoadReportByMeter.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\MassLoadReportByTank.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Meter Throughput.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Meter Totalizer.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\MonthlySummaryMassByCompany.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\MonthlySummaryVolumeByCompany.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\SummaryMassLoadReportByCompany.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\SummaryVolumeLoadReportByCompany.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Tank OIL Close_Report.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Tank OIL Open_Report.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\UserSecurityPermit.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\Weight InOut.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\YearlySummaryMassByCompany.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\YearlySummaryVolumeByCompany.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\GINNTAS.exe.config
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\GINNTAS.exe.manifest
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\GINNTAS.application
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\GINNTAS.exe
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\GINNTAS.pdb
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\GINNTAS.xml
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.ReportSource.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.Shared.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\MetroFramework.Design.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\MetroFramework.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\MetroFramework.Fonts.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Oracle.ManagedDataAccess.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\AxShockwaveFlashObjects.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\ShockwaveFlashObjects.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.vbprojAssemblyReference.cache
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.Form3.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmCheckUserPw.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmProofCheckBitument.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmProofSendDataErp.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmDeviceEven.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmProofMonitorTank.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmProofMonitorLoadProduct.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmProofSAPTAS.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmProofSumOrder.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainCarrier_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainTransportUnit_VehicleType_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainTransportUnit_VehicleType.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMINetworkStatus.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIPlantLayout.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIProcessFlowTLB.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmScanAlarm.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmCommunication.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMeterAlarm.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMINetwork.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIProcessSlop.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIPumpReceive.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIPumpBay.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIBayLoading.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIMonitorMeter.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMISlopLevel.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMISlopTemp.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.popupNetworkStatus.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUnInvTank.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUnInMeter.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmfrmUnloading_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUnloading_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmProofJournal.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmProofEditLine.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmProofLoadIncomplete.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmProofLoading.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmProofLoadingComplete.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmProofQueue.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigBay_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigBay_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigCardReader_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigCardReader_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigCommport_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigCommport_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigIsland_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigIsland_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigMeter_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigMeter_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigPrinters_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigPrinters_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigPump_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigPump_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigReportHeaders_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigReportHeaders_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigReportSetting_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigReportSetting_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigSaleProduct_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigSaleProduct_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigTank_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigTank_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainCard_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainCard_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainCarrier_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainCustomer_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainCustomer_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainDriver_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainDriver_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainShipTo_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainShipTo_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainTransportUnit_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainTransportUnit_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainVehicle_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMainVehicle_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmFind.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigBaseProduct_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmConfigBaseProduct_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.dfindIncombo.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIBayLoadingAlarmPopUp.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIBayLoadingTopUP.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIMeterSetup.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIOverView.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIPermissive.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIProcessSetLevel.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIProcessSetTemp.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMITank.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIwbLampTest.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMMIWeighBridge.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadingSystem.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmOrderSchedule.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadEditExcise.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadDO_Edit.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadCreateLoad.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadCustomerQuota.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadDO.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadDoList.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadDo_new.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadDO_Sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadEditGOVCOQ.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadEditSeal.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadEditVolumeDo.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadEditWeight.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadLoading.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadLoading_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadMixEdit.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadOldDataVechicle.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadSeal.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadTopUp.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadTopUp_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadWeight.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMixEditWeight.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmLoadCheckDiff.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmRemark.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMain1.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptDepHighway.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptDepHighwayTotal.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptDepHighwayTotalOfMonth.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptEndOfDay.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptMainShow.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptMeterDay.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptMeterThruoghput.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptOilLoading.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptOilTankOfMonth.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptOilTankOfYear.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptProductDelivery.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptProductOfMeter.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptProductOfMonth.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptProductOfYear.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptShowReport.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptStatusOftank.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptTopup.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmrptWeight.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmShowReportDelivery.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.FrmUtlChangPsw.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUtlCreateLoad1.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUtlEndOfday.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUtlShowdetial.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUtlWeighBridge_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUtlWeighBridge_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUtlReportEditor.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUtlSecurity.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUtlUsers_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUtlUsers_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUtlAddSeal.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmTruck.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmCard.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMasterData.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmCustomer.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmType2.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMnuType1.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmType1.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmDriver.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmTemporary.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.Form1.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmMain.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUtlOverrideCR.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUtlTasConfig_main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.frmUtlTasConfig_sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.LoginForm1.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.Resources.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucBack.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.UcFlowLoadingTLB.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucHeader.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucMenutxtSub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucButtonBay.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.UcFlowLoading.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.UcLoadStatus.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucMenutxt_Sub.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucMenutxt_Main.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucMenutxtMain.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.UcMMIOverView.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucMMIview.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucNetworkStatus.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucPanelStatuses.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucPermissive.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucSplitpanel.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucFooter.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucTruck.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucVProgressBar.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.UcProgressOil.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucProgressOverView.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucReflesh.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucSearch.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucDelete.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucEdit.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucInsert.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucCancel.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucClose.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucMenu.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucMinimize.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucMnu.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucMnuText.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucSave.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucStatus.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.ucTank.resources
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.vbproj.GenerateResource.cache
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.vbproj.CoreCompileInputs.cache
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.TrustInfo.xml
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.exe.manifest
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.application
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.vbproj.CopyComplete
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.exe
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.xml
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\obj\Release\GINNTAS.pdb
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Microsoft.ReportViewer.WinForms.xml
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Report Files\MonitorMeter.rpt
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CButtonLib.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\bin\Release\CButtonLib.xml

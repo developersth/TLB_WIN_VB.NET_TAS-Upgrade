@@ -1,0 +1,12 @@
+23/05/2021 20:25:52 [ExecuteSQL] INSERT INTO TAS.PICTURE_TAS(PICTURE_ID,PICTURE_TYPE,PICTURE_DATA,UPDATED_BY,J_COMPUTER) VALUES(52019094,1,:PICTURE_DATA,'ADMIN','DESKTOP-423JB0I') 
+23/05/2021 20:25:52 [ExecuteSQL] System.NullReferenceException: Object reference not set to an instance of an object.
+   at GINNTAS.COracle.UploadImagePicture(Int32 Work_ID, String PICTURE_ID, String PICTURE_TYPE, Byte[] byteimg, String SYSTEM_COMPUTER, String SYSUSER) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 343
+23/05/2021 20:26:02 [ExecuteSQL] INSERT INTO TAS.PICTURE_TAS(PICTURE_ID,PICTURE_TYPE,PICTURE_DATA,UPDATED_BY,J_COMPUTER) VALUES(52019094,1,:PICTURE_DATA,'ADMIN','DESKTOP-423JB0I') 
+23/05/2021 20:26:02 [ExecuteSQL] System.NullReferenceException: Object reference not set to an instance of an object.
+   at GINNTAS.COracle.UploadImagePicture(Int32 Work_ID, String PICTURE_ID, String PICTURE_TYPE, Byte[] byteimg, String SYSTEM_COMPUTER, String SYSUSER) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 343
+23/05/2021 20:26:10 [ExecuteSQL] INSERT INTO TAS.PICTURE_TAS(PICTURE_ID,PICTURE_TYPE,PICTURE_DATA,UPDATED_BY,J_COMPUTER) VALUES(52019094,1,:PICTURE_DATA,'ADMIN','DESKTOP-423JB0I') 
+23/05/2021 20:26:10 [ExecuteSQL] System.NullReferenceException: Object reference not set to an instance of an object.
+   at GINNTAS.COracle.UploadImagePicture(Int32 Work_ID, String PICTURE_ID, String PICTURE_TYPE, Byte[] byteimg, String SYSTEM_COMPUTER, String SYSUSER) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 343
+23/05/2021 20:26:24 [ExecuteSQL] INSERT INTO TAS.PICTURE_TAS(PICTURE_ID,PICTURE_TYPE,PICTURE_DATA,UPDATED_BY,J_COMPUTER) VALUES(52019094,1,:PICTURE_DATA,'ADMIN','DESKTOP-423JB0I') 
+23/05/2021 20:26:24 [ExecuteSQL] System.NullReferenceException: Object reference not set to an instance of an object.
+   at GINNTAS.COracle.UploadImagePicture(Int32 Work_ID, String PICTURE_ID, String PICTURE_TYPE, Byte[] byteimg, String SYSTEM_COMPUTER, String SYSUSER) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 343

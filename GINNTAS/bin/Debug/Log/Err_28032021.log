@@ -1,0 +1,226 @@
+28/03/2021 12:35:08 [OpenDyns] select S.SCREEN_ID,S.SUB_ID,S.MAIN_MENU,S.SUB_MENU 0 as PERMISSION 0 as CONFIRM_PASSWORDfrom TAS.SCREEN S order by S.SCREEN_ID,S.SUB_ID
+28/03/2021 12:35:08 [OpenDyns] Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00923: FROM keyword not found where expected
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, OracleLogicalTransaction& oracleLogicalTransaction, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at GINNTAS.COracle.OpenDys(String strSQL, String pTableName, DataSet& mDataSet, String& SQL_Execution_Error, Boolean pShowErr) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 227
+28/03/2021 12:35:33 [OpenDyns] select S.SCREEN_ID,S.SUB_ID,S.MAIN_MENU,S.SUB_MENU 0 as PERMISSION 0 as CONFIRM_PASSWORD from TAS.SCREEN S order by S.SCREEN_ID,S.SUB_ID
+28/03/2021 12:35:33 [OpenDyns] Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00923: FROM keyword not found where expected
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, OracleLogicalTransaction& oracleLogicalTransaction, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at GINNTAS.COracle.OpenDys(String strSQL, String pTableName, DataSet& mDataSet, String& SQL_Execution_Error, Boolean pShowErr)
+28/03/2021 19:05:56 [OpenDyns] SELECT RECORD_NO,
+                                   LOAD_HEADER_NO,
+                                   DO_NO,
+                                   BASE_PRODUCT_ID,
+                                   ROUND(LOADED_VOLOBS,2) AS LOADED_VOLOBS,
+                                   ROUND(LOADED_VOL15C,2) AS LOADED_VOL15C,
+                                   ROUND(LOADED_VOL30C,2) AS LOADED_VOL30C,
+                                   ROUND(LOADED_MASS,2) AS LOADED_MASS,
+                                   LOADED_VOLOBS_500N,
+                                   LOADED_VOLOBS_150N,
+                                   LOADED_VOLOBS_150BS,
+                                   TEMP,
+                                   DESITY15C,
+                                   DESITY30C,
+                                   VCF15C,
+                                   VCF30C,
+                                   COQ_NO,
+                                   METER_NO,
+                                   TANK_ID,
+                                   TANK_NAME
+                            FROM RPT.VIEW_DELIV_SUM_LINE
+                            WHERE LOAD_HEADER_NO =630015885
+28/03/2021 19:05:57 [OpenDyns] System.InvalidCastException: Specified cast is not valid.
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetDecimal(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValue(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.DataReaderContainer.CommonLanguageSubsetDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.SchemaMapping.LoadDataRow()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.LoadAdapter.FillFromReader(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)
+   at System.Data.DataTable.Load(IDataReader reader)
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 288
+28/03/2021 19:06:04 [OpenDyns] SELECT RECORD_NO,
+                                   LOAD_HEADER_NO,
+                                   DO_NO,
+                                   BASE_PRODUCT_ID,
+                                   ROUND(LOADED_VOLOBS,2) AS LOADED_VOLOBS,
+                                   ROUND(LOADED_VOL15C,2) AS LOADED_VOL15C,
+                                   ROUND(LOADED_VOL30C,2) AS LOADED_VOL30C,
+                                   ROUND(LOADED_MASS,2) AS LOADED_MASS,
+                                   LOADED_VOLOBS_500N,
+                                   LOADED_VOLOBS_150N,
+                                   LOADED_VOLOBS_150BS,
+                                   TEMP,
+                                   DESITY15C,
+                                   DESITY30C,
+                                   VCF15C,
+                                   VCF30C,
+                                   COQ_NO,
+                                   METER_NO,
+                                   TANK_ID,
+                                   TANK_NAME
+                            FROM RPT.VIEW_DELIV_SUM_LINE
+                            WHERE LOAD_HEADER_NO =630015885
+28/03/2021 19:06:04 [OpenDyns] System.InvalidCastException: Specified cast is not valid.
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetDecimal(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValue(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.DataReaderContainer.CommonLanguageSubsetDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.SchemaMapping.LoadDataRow()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.LoadAdapter.FillFromReader(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)
+   at System.Data.DataTable.Load(IDataReader reader)
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 288
+28/03/2021 19:06:18 [OpenDyns] SELECT RECORD_NO,
+                                   LOAD_HEADER_NO,
+                                   DO_NO,
+                                   BASE_PRODUCT_ID,
+                                   ROUND(LOADED_VOLOBS,2) AS LOADED_VOLOBS,
+                                   ROUND(LOADED_VOL15C,2) AS LOADED_VOL15C,
+                                   ROUND(LOADED_VOL30C,2) AS LOADED_VOL30C,
+                                   ROUND(LOADED_MASS,2) AS LOADED_MASS,
+                                   LOADED_VOLOBS_500N,
+                                   LOADED_VOLOBS_150N,
+                                   LOADED_VOLOBS_150BS,
+                                   TEMP,
+                                   DESITY15C,
+                                   DESITY30C,
+                                   VCF15C,
+                                   VCF30C,
+                                   COQ_NO,
+                                   METER_NO,
+                                   TANK_ID,
+                                   TANK_NAME
+                            FROM RPT.VIEW_DELIV_SUM_LINE
+                            WHERE LOAD_HEADER_NO =630015885
+28/03/2021 19:06:18 [OpenDyns] System.InvalidCastException: Specified cast is not valid.
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetDecimal(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValue(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.DataReaderContainer.CommonLanguageSubsetDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.SchemaMapping.LoadDataRow()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.LoadAdapter.FillFromReader(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)
+   at System.Data.DataTable.Load(IDataReader reader)
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 288
+28/03/2021 19:06:55 [OpenDyns] SELECT RECORD_NO,
+                                   LOAD_HEADER_NO,
+                                   DO_NO,
+                                   BASE_PRODUCT_ID,
+                                   ROUND(LOADED_VOLOBS,2) AS LOADED_VOLOBS,
+                                   ROUND(LOADED_VOL15C,2) AS LOADED_VOL15C,
+                                   ROUND(LOADED_VOL30C,2) AS LOADED_VOL30C,
+                                   ROUND(LOADED_MASS,2) AS LOADED_MASS,
+                                   LOADED_VOLOBS_500N,
+                                   LOADED_VOLOBS_150N,
+                                   LOADED_VOLOBS_150BS,
+                                   TEMP,
+                                   DESITY15C,
+                                   DESITY30C,
+                                   VCF15C,
+                                   VCF30C,
+                                   COQ_NO,
+                                   METER_NO,
+                                   TANK_ID,
+                                   TANK_NAME
+                            FROM RPT.VIEW_DELIV_SUM_LINE
+                            WHERE LOAD_HEADER_NO =630015885
+28/03/2021 19:06:55 [OpenDyns] System.InvalidCastException: Specified cast is not valid.
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetDecimal(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValue(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.DataReaderContainer.CommonLanguageSubsetDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.SchemaMapping.LoadDataRow()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.LoadAdapter.FillFromReader(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)
+   at System.Data.DataTable.Load(IDataReader reader)
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 288
+28/03/2021 19:07:51 [OpenDyns] SELECT RECORD_NO,
+                                   LOAD_HEADER_NO,
+                                   DO_NO,
+                                   BASE_PRODUCT_ID,
+                                   ROUND(LOADED_VOLOBS,2) AS LOADED_VOLOBS,
+                                   ROUND(LOADED_VOL15C,2) AS LOADED_VOL15C,
+                                   ROUND(LOADED_VOL30C,2) AS LOADED_VOL30C,
+                                   ROUND(LOADED_MASS,2) AS LOADED_MASS,
+                                   LOADED_VOLOBS_500N,
+                                   LOADED_VOLOBS_150N,
+                                   LOADED_VOLOBS_150BS,
+                                   TEMP,
+                                   DESITY15C,
+                                   DESITY30C,
+                                   VCF15C,
+                                   VCF30C,
+                                   COQ_NO,
+                                   METER_NO,
+                                   TANK_ID,
+                                   TANK_NAME
+                            FROM RPT.VIEW_DELIV_SUM_LINE
+                            WHERE LOAD_HEADER_NO =630015885
+28/03/2021 19:07:51 [OpenDyns] System.InvalidCastException: Specified cast is not valid.
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetDecimal(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValue(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.DataReaderContainer.CommonLanguageSubsetDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.SchemaMapping.LoadDataRow()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.LoadAdapter.FillFromReader(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)
+   at System.Data.DataTable.Load(IDataReader reader)
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 288
+28/03/2021 19:08:22 [OpenDyns] SELECT RECORD_NO,
+                                   LOAD_HEADER_NO,
+                                   DO_NO,
+                                   BASE_PRODUCT_ID,
+                                   ROUND(LOADED_VOLOBS,2) AS LOADED_VOLOBS,
+                                   ROUND(LOADED_VOL15C,2) AS LOADED_VOL15C,
+                                   ROUND(LOADED_VOL30C,2) AS LOADED_VOL30C,
+                                   ROUND(LOADED_MASS,2) AS LOADED_MASS,
+                                   LOADED_VOLOBS_500N,
+                                   LOADED_VOLOBS_150N,
+                                   LOADED_VOLOBS_150BS,
+                                   TEMP,
+                                   DESITY15C,
+                                   DESITY30C,
+                                   VCF15C,
+                                   VCF30C,
+                                   COQ_NO,
+                                   METER_NO,
+                                   TANK_ID,
+                                   TANK_NAME
+                            FROM RPT.VIEW_DELIV_SUM_LINE
+                            WHERE LOAD_HEADER_NO =630015885
+28/03/2021 19:08:22 [OpenDyns] System.InvalidCastException: Specified cast is not valid.
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetDecimal(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValue(Int32 i)
+   at Oracle.ManagedDataAccess.Client.OracleDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.DataReaderContainer.CommonLanguageSubsetDataReader.GetValues(Object[] values)
+   at System.Data.ProviderBase.SchemaMapping.LoadDataRow()
+   at System.Data.Common.DataAdapter.FillLoadDataRow(SchemaMapping mapping)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.LoadAdapter.FillFromReader(DataTable[] dataTables, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.DataTable.Load(IDataReader reader, LoadOption loadOption, FillErrorEventHandler errorHandler)
+   at System.Data.DataTable.Load(IDataReader reader)
+   at GINNTAS.COracle.Query_TBL(String sql) in D:\SVN\Source Code\TLB Project\Development\TLB_WIN_VB.NET_TAS Upgrade\GINNTAS\classs\COracle.vb:line 288

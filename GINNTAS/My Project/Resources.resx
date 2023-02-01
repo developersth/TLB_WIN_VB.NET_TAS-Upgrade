@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Meter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\Meter.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Driver" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\MasterData\Driver.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TubeIs1R3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\TubeIs1R3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BallVale2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\BallVale-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BG_MAIN1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\BG_MAIN1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Database" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\Database.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PlantLayout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\PlantLayout.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pumpAfect_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\pumpAfect-2.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pic_Key" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Pic_Key.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="close_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\close_n.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="History" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\History\History.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bInsert" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\bInsert.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Truck1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\Truck1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BG_01_SETUP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\BG_01_SETUP.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MasterData" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\MasterData\MasterData.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LOGOUT2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\LOGOUT.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Sound\a.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BallVale1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\BallVale-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\button.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TubeIs2L" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\TubeIs2L.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LOGOUT11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\LOGOUT1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Utilites1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\Utilites1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MMIProcessFlow1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\MMIProcessFlow1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Customer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\MasterData\Customer.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TubeIs1L0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\TubeIs1L0.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silent_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\silent-0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dosetup" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\Do setup.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TankTransparate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\TankTransparate.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WeightBridge_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\WeightBridge-3.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mnubg_n11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\mnubg_n1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Process_Slop2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\Process_Slop2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mnubg_h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\mnubg_h.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Utilites" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\Utilites.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BGMenu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BGMenu.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minimize_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\minimize_n.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="monitor1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\monitor1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LoadSchedule" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\LoadSchedule\LoadSchedule.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minimize_h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\minimize_h.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pumpAfect_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\pumpAfect-0.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\red.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BG_02_MONITOR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\BG_02_MONITOR.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Footer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Footer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MeterAtIsland" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\MeterAtIsland.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Inventory1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\Inventory1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TubeIs1L1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\TubeIs1L1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bg_menu_sub_a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\bg_menu_sub_a.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pumpAfect_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\pumpAfect-1.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mercury2plus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mercury2plus.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Inventory" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\Inventory.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HMIDISPLAY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\HMI DISPLAY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BGMenu1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\BGMenu.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mnu_h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\mnu_h.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="silent_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\silent-1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Header.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BGMenu_N" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BGMenu_N.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ProcessFlow_tran_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\ProcessFlow_tran_0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bSave" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\bSave.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu_h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\menu_h.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SystemSetting" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\SystemSetting\SystemSetting.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minimize" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\minimize.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Foldericon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\Folder-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Database1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\Database1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bDelete" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\bDelete.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TubeIs1R0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\TubeIs1R0.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\GG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ProcessFlow_tran_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\ProcessFlow_tran_0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BG_00_MAIN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\BG_00_MAIN.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bEdit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\bEdit.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pipLine" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\pipLine.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Back1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Back1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AcculoadIIIN4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\AcculoadIIIN4.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TubeIs1L2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\TubeIs1L2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mnu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\mnu.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="card" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\card.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ProcessFlow_tran_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\ProcessFlow_tran_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bSearch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\bSearch.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PrintReport" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\Report\PrintReport.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="previous" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\previous.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="close_h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\close_h.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LOGOUT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\LOGOUT.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Systemsetup" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\System setup.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ProcessFlow_tran_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\ProcessFlow_tran_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trafficWeight_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\trafficWeight_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="default_ico" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\default ico.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WeightBridge_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\WeightBridge_1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bCancel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\bCancel.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Truck11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\Truck1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OverrideSystem" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\OverrideSystem\OverrideSystem.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TubeIs1L3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\TubeIs1L3.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HMI1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\HMI.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\menu_n.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SystemNetwork" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\SystemNetwork.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trafficWeight_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\trafficWeight_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ProcessFlow_tran_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\ProcessFlow_tran_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Process_Slop1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\Process_Slop1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bg_menu_sub" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\bg_menu_sub.gif;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mnubg_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\mnubg_n.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bgIsland" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\bgIsland.PNG;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trafficWeight_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\trafficWeight_0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GInnovationcopy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\G Innovation_copy.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TubeIs1R2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\TubeIs1R2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WeightBridge_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\WeightBridge_5.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Truck2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\Truck2.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WeightBridge_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\WeightBridge_0.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ProcessFlow_tran_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\ProcessFlow_tran_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trafficWeight_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\trafficWeight_2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bReflesh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\bReflesh.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ProcessFlow_tran_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\ProcessFlow_tran_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Island" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\Island.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Printport" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\Print report.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ProcessFlow_tran_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\ProcessFlow_tran_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\BG.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bSearch1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\bSearch.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Truck" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\Truck.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TRUCK_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\TRUCK-01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DBdis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\DBdis.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DBcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\DBcon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HMI" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\HMI.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TubeIs1R1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\TubeIs1R1.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MMIProcessFlow2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\MMIProcessFlow2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="monitor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\monitor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WeightBridge_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\WeightBridge_4.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BG_MAIN11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\BG_MAIN1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LOGOUT1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu Icon\LOGOUT1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mnubg_n2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\mnubg_n2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WeightBridge_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\WeightBridge_2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mnubg_n1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\mnubg_n1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="green1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BG_SUB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\BG_SUB.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TubeIs2R" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\TubeIs2R.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BallVale0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\pictures\Menu\HMI\BallVale-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
